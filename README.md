@@ -1,2 +1,2 @@
-# Prueba2-Aseguradora
+# Aseguradora
 Prueba 2 -BlancaArias
